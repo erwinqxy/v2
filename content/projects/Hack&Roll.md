@@ -1,5 +1,5 @@
 ---
-date: '2021-06-01'
+date: '2022-06-01'
 title: 'TelePet'
 github: 'https://github.com/erwinqxy/TelePet-Bot'
 external: 'https://devpost.com/software/happy-pill'
@@ -12,4 +12,4 @@ company: 'NUS Hackers Hack&Roll 2022'
 showInProjects: true
 ---
 
-A Telegram chatbot to prompt social interactions within a Telegram group by initiating randomized conversations.
+A Telegram chatbot to prompt social interactions within a Telegram group by initiating randomized conversations.å

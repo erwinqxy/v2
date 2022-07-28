@@ -1,5 +1,5 @@
 ---
-date: '2021-06-01'
+date: '2022-06-01'
 title: 'Hangman Game'
 github: 'https://github.com/erwinqxy/tiktok-hangman'
 external: 'https://tiktok-camp22-hangman.vercel.app/'
