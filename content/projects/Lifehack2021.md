@@ -1,5 +1,5 @@
 ---
-date: '2017-12-01'
+date: '2021-07-01'
 title: 'MediaTE'
 github: 'https://github.com/AllardQuek/MediaTE'
 external: 'https://devpost.com/software/mediate-bouafk?ref_content=user-portfolio&ref_feature=in_progress'
