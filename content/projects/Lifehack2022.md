@@ -9,7 +9,7 @@ tech:
   - Encryption
   - Steganography 
 company: 'NUS Lifehack 2021 (Hackathon)'
-showInProjects: true
+showInProjects: false
 ---
 
 A Python Telegram chatbot that hides and encrypt messages in pictures. 
