@@ -1,5 +1,5 @@
 ---
-date: '2022-06-01'
+date: '2022-01-01'
 title: 'TelePet'
 github: 'https://github.com/erwinqxy/TelePet-Bot'
 external: 'https://devpost.com/software/happy-pill'
