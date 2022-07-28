@@ -6,7 +6,7 @@ external: ''
 
 tech:
   - Java 
-company: 'Tiktok Youth Camp 2022'
+company: 'NUS School of Computing'
 showInProjects: true
 ---
 Develop a Control Flow Graph Alignment Java module to produce a mapping between two program objects. 

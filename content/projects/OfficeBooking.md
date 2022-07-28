@@ -6,6 +6,6 @@ external: 'https://github.com/erwinqxy/CS2102-Grp80-1'
 tech:
   - Postgres SQL 
 company: 'NUS School of Computing'
-showInProjects: true
+showInProjects: false
 ---
 An Office booking database management system built using Postgres SQL. 

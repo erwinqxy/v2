@@ -8,7 +8,7 @@ tech:
   - JavaScript 
   - Figma
 company: 'DSTA CodeEXP 2021 (Hackathon)'
-showInProjects: true
+showInProjects: false
 ---
 
 A React Native mobile app for home-based businesses in Singapore to market their products to consumers. 
