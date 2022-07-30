@@ -7,10 +7,6 @@ module.exports = {
       url: 'https://github.com/erwinqxy',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/niwreq',
-    },
-    {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/erwin-quek-3ab0831a8/',
     }
