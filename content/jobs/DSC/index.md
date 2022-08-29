@@ -1,7 +1,7 @@
 ---
 date: '2022-08-30'
 title: 'Backend Lead'
-company: 'Google Developer Student Club NUS'
+company: 'Google DSC NUS'
 location: 'Singapore, SG'
 range: 'Aug - Present'
 url: 'https://dsc.comp.nus.edu.sg/'
