@@ -7,8 +7,6 @@ range: 'May - July 2022'
 url: 'https://endowus.com/'
 ---
 
-- Worked closely with a QA Engineer to design and build a Web UI E2E automation framework. 
-- Contributed and helped maintain the Web UI E2E Automation Test Suite using Cypress and CircleCi.
-- Initiated an independent project to explore how to optimize existing test runs on CircleCi, and managed to reduce time taken by ~50%.   
-- Involved in both test plan and test case creation/execution to test a new feature release on both Web and Mobile Applications. 
-
+- Conceptualised an independent project to explore how to optimise existing test runs on CircleCi, and managed to reduce credits consumed by ~50%.
+- Developed and presented test plans and test case creation/execution to team members to test new feature releases on both Web and Mobile Applications.
+- Coordinated with a QA Engineer to maintain the Web UI E2E automation framework.
