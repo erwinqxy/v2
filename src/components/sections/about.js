@@ -145,8 +145,8 @@ const About = () => {
               I also have the opportunity of working at{' '}
               <a href="https://endowus.com/">a fintech start-up</a>,{' '}
               <a href="https://food.grab.com/">a food delivery service</a>.{' '}
-              My main focus these days is learn as much as I can, and gain as much working experience 
-               at <a href="https://endowus.com/">Endowus</a>. 
+              My main focus in 2023 is to learn as much as I can, and gain as much exposure in Toronto and 
+                <a href="https://www.mavennet.com/">Mavennet</a>. 
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
