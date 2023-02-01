@@ -7,4 +7,4 @@ range: 'Jan - Present'
 url: 'https://www.mavennet.com/'
 ---
 
-- Currently invovled with 3iQ and Grapes project 
+- Currently involved with 3iQ and Grapes project
