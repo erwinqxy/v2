@@ -66,10 +66,10 @@ const Hero = () => {
       <p>
         I’m a Year 3 Computer Science student at National University Singapore. I will be 
         specializing in software development and database systems. I am also 
-        curious to learn more about Algorithms. Currently, I’m a Mobile Developer Intern
+        curious to learn more about Algorithms. Currently, I’m a software Developer Intern based in Toronto, working
         at{' '}
-        <a href="https://endowus.com/" target="_blank" rel="noreferrer">
-          Endowus
+        <a href="https://www.mavennet.com/" target="_blank" rel="noreferrer">
+          Mavennet
         </a>
         .
       </p>
