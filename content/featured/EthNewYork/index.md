@@ -9,5 +9,7 @@ tech:
 - WalletConnect
 - XMTP SDK
 - 1Inch API
-  
+
+---
+
 **StableHR** - StableHR is a cross-border automated payment system that allows efficient, low-cost, multi-currency transfers.
