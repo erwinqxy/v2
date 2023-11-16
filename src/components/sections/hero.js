@@ -64,7 +64,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a Year 3 Computer Science student at National University Singapore. I will be 
+        I’m a fourth year Computer Science student at National University Singapore. I will be 
         specializing in software development and database systems. I am also 
         curious to learn more about Algorithms. Currently, I’m a software Developer Intern based in Toronto, working
         at{' '}
@@ -78,7 +78,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://docs.google.com/document/d/1rQiFf5l_LW3wo7sDMSsfy9mGsUn1JN4a/edit?usp=sharing&ouid=111099942703627877902&rtpof=true&sd=true"
+      href="https://drive.google.com/file/d/190rRvuVh-3vNDKkCPWnVcqdwSWJS0cgB/view?usp=sharing"
       target="_blank"
       rel="noreferrer">
       Resume

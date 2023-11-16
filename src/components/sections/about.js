@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'React', 'Python', 'Java', 'Flutter', 'Dart', 'Postgres SQL'];
+  const skills = ['JavaScript (ES6+)', 'React', 'Python', 'Java', 'Flutter', 'Postgres SQL', 'NestJs', 'NextJs'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,7 +135,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Erwin and I am a Year 3 Student at National Univeristy of Singapore (NUS). 
+              Hello! My name is Erwin and I am a fourth year Student at National Univeristy of Singapore (NUS). 
               My interest in technologies started back in 2012 when I became really interested in Apple Products.
               I would keep myself updated to all the upcoming Keynote Speeches and Product Launches. 
             </p>
@@ -143,10 +143,8 @@ const About = () => {
             <p>
               Fast-forward to today, I’ve have the great privilege to read Computer Science in NUS.
               I also have the opportunity of working at{' '}
-              <a href="https://endowus.com/">a fintech start-up</a>,{' '}
-              <a href="https://food.grab.com/">a food delivery service</a>.{' '}
-              My main focus these days is learn as much as I can, and gain as much working experience 
-               at <a href="https://endowus.com/">Endowus</a>. 
+              <a href="https://endowus.com/">Endowus, a fintech start-up</a>,{' '}
+              <a href="https://food.grab.com/">Grab, a food delivery service</a>.{' '}
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
