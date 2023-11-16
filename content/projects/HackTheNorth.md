@@ -8,6 +8,6 @@ tech:
   - NextJs 
   - Blockchain (Ethereum) 
   
-showInProjects: true
+showInProjects: false
 ---
-**Bl0ckify** - Transforming Tangible Treasures into Digital Assets with NFT Magic.
+**Bl0ckify** - Transforming Tangible Treasures into Digital Assets with NFT Magic. Winner of Ethereum's Infinite Garden prize.
