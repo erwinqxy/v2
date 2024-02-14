@@ -64,8 +64,8 @@ const Contact = () => {
       knowledge and experience through internship opportunities for my personal and professional development. 
       </p>
 
-      <a className="email-link" href={`mailto:${email}`}>
-        Let's Connect 
+      <a className="email-link" href="https://linktr.ee/erwinquek" target="_blank" rel="noopener noreferrer">
+        Let's Connect
       </a>
     </StyledContactSection>
   );
