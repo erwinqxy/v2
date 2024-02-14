@@ -64,12 +64,11 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a fourth year Computer Science student at National University Singapore. I will be 
-        specializing in software development and database systems. I am also 
-        curious to learn more about Algorithms. Currently, I’m a software Developer Intern based in Toronto, working
-        at{' '}
-        <a href="https://www.mavennet.com/" target="_blank" rel="noreferrer">
-          Mavennet
+        I’m a fourth year Computer Science student at National University Singapore. I will be
+        specializing in software development. I am also curious to learn more about Algorithms.
+        Currently, I’m a part time software Developer, working at{' '}
+        <a href="https://www.stablecorp.ca/" target="_blank" rel="noreferrer">
+          Stablecorp Inc
         </a>
         .
       </p>
