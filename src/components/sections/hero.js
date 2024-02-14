@@ -66,7 +66,7 @@ const Hero = () => {
       <p>
         I’m a fourth year Computer Science student at National University Singapore. I will be
         specializing in software development. I am also curious to learn more about Algorithms.
-        Currently, I’m a part time software Developer, working at{' '}
+        Currently, I’m a part-time Software Developer, working remotely for{' '}
         <a href="https://www.stablecorp.ca/" target="_blank" rel="noreferrer">
           Stablecorp Inc
         </a>
