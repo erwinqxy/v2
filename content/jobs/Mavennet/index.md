@@ -1,11 +1,12 @@
 ---
-date: '2023-07-01'
-title: 'Co-founder'
-company: 'Send'
+date: '2023-01-01'
+title: 'Software Developer Intern'
+company: 'Mavennet'
 location: 'Ontario, Toronto'
-range: 'July - Present'
-url: 'https://send.framer.ai/'
+range: 'Jan - Dec'
+url: 'https://www.mavennet.com/'
 ---
 
-- As a member of a founding team of three, collaborated on the development of a unique solution dedicated to revolutionizing cross-border remittance through the application of blockchain technology.
-- Led the technology development efforts, steering the creation of a cutting-edge Minimum Viable Product (MVP).
+- Spearheaded the end-to-end development of Grapes Finance's blockchain API, a pivotal component of the organization's financial infrastructure, enabling seamless integration with various financial institutions.
+- Collaborated closely with stakeholders, translating business requirements into technical specifications, and actively participated in project planning and roadmap development, ensuring alignment with company goals.
+- Developed and maintained features for a blockchain web application, employing React for the front-end and NestJS for the back-end.
